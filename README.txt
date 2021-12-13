@@ -1,4 +1,4 @@
-#HepsiBurada CaseStudy_MarsRover
+#CaseStudy_MarsRover
 
 ##Proje Teknik Bilgiler##
 
